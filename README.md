@@ -1,0 +1,1 @@
+Welcome to the WearBox Clothing Store! This is a modern and stylish e-commerce website built with the latest web technologies to provide a seamless shopping experience. Whether you're looking for the latest fashion trends or classic wardrobe staples, WearBox has it all
